@@ -12,3 +12,5 @@ by T. Lucas Mäkinen [<img src="https://raw.githubusercontent.com/tlmakinen/Fiel
 >get the code:  [https://github.com/tlmakinen/cosmicGraphs](https://github.com/tlmakinen/cosmicGraphs)
 
 <img src="https://raw.githubusercontent.com/tlmakinen/cosmicGraphs/master/tutorial/gIMNN-diagram.png" alt="drawing" width="900"/>
+
+<img src="https://raw.githubusercontent.com/tlmakinen/cosmicGraphs/master/tutorial/F-withmass-intfsigma.png" alt="drawing" width="430"/>
