@@ -15,4 +15,4 @@ by T. Lucas Mäkinen [<img src="https://raw.githubusercontent.com/tlmakinen/Fiel
 
 <img src="https://raw.githubusercontent.com/tlmakinen/cosmicGraphs/master/tutorial/F-withmass-intfsigma.png" alt="drawing" width="430"/>
 
-<img src="https://raw.githubusercontent.com/tlmakinen/fig_library/cosmicgraphmovie.gif" alt="drawing" width="430"/>
+<img src="https://media3.giphy.com/media/YYELjI6JQ7QMjRFDlB/giphy.gif?cid=790b761182588d309019643cf623a7ea39297ce10bee4db4&rid=giphy.gif" alt="drawing" width="430"/>
