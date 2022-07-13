@@ -9,7 +9,7 @@ by T. Lucas Mäkinen [<img src="https://raw.githubusercontent.com/tlmakinen/Fiel
 
 >read the paper: [https://arxiv.org/abs/2107.07405](https://arxiv.org/abs/2207.05202)
 
->get the code:  [https://github.com/tlmakinen/cosmicGraphs](https://github.com/tlmakinen/cosmicGraphs)
+<!--- >get the code:  [https://github.com/tlmakinen/cosmicGraphs](https://github.com/tlmakinen/cosmicGraphs) --->
 
 <img src="https://raw.githubusercontent.com/tlmakinen/cosmicGraphs/master/tutorial/gIMNN-diagram.png" alt="drawing" width="900"/>
 
