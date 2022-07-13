@@ -1,7 +1,5 @@
 # cosmicGraphs
- [![arXiv](https://img.shields.io/badge/arXiv-2010.15843-b31b1b.svg)](https://arxiv.org/abs/2207.05202) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
- 
- <!--- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rz2UkQ-lu4txeYDiRqxBIsUBaFkoHz_X#scrollTo=0a2f794d-034d-4cd2-8e5b-208adb84bfe5) --->
+ [![arXiv](https://img.shields.io/badge/arXiv-2010.15843-b31b1b.svg)](https://arxiv.org/abs/2207.05202) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rz2UkQ-lu4txeYDiRqxBIsUBaFkoHz_X#scrollTo=0a2f794d-034d-4cd2-8e5b-208adb84bfe5)
 
 Investigating the information content in the cosmic web using dark matter halo and void graphs. 
 
@@ -11,7 +9,7 @@ by T. Lucas Mäkinen [<img src="https://raw.githubusercontent.com/tlmakinen/Fiel
 
 >read the paper: [https://arxiv.org/abs/2107.07405](https://arxiv.org/abs/2207.05202)
 
-<!--- >get the code:  [https://github.com/tlmakinen/cosmicGraphs](https://github.com/tlmakinen/cosmicGraphs) --->
+get the code:  [https://github.com/tlmakinen/cosmicGraphs](https://github.com/tlmakinen/cosmicGraphs)
 
 <img src="https://raw.githubusercontent.com/tlmakinen/cosmicGraphs/master/tutorial/gIMNN-diagram.png" alt="drawing" width="900"/>
 
