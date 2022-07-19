@@ -16,6 +16,8 @@ by T. Lucas Mäkinen [<img src="https://raw.githubusercontent.com/tlmakinen/Fiel
   <img src="https://media2.giphy.com/media/R2kXFYxbQNjkC5SxBV/giphy.gif?cid=790b7611ba802f5d69ce62b961e6fa17fbd9c61e5d697bf6&rid=giphy.gif" alt="drawing" width="450"/>
 </p>
 
+# full documentation coming soon !
+
 
 <img src="https://raw.githubusercontent.com/tlmakinen/cosmicGraphs/master/tutorial/gIMNN-diagram.png" alt="drawing" width="900"/>
 
