@@ -9,6 +9,8 @@ by T. Lucas Mäkinen [<img src="https://raw.githubusercontent.com/tlmakinen/Fiel
 
 >read the paper: [https://arxiv.org/abs/2107.07405](https://arxiv.org/abs/2207.05202)
 
+>blog post: [https://tlmakinen.github.io/blog/2022/09/12/cosmicgraphs](https://tlmakinen.github.io/blog/2022/09/12/cosmicgraphs)
+
 >get the code:  [https://github.com/tlmakinen/cosmicGraphs](https://github.com/tlmakinen/cosmicGraphs)
 
 
